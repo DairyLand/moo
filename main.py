@@ -1,5 +1,5 @@
 import os
-import discord
+import discord #this is using pycord for the rewrite
 from discord.ext import commands
 from dotenv import load_dotenv
 
